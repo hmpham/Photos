@@ -1,4 +1,4 @@
-Software Methology CS213
+Software Methodology CS213
 
 Fall 2017
 
